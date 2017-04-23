@@ -19,4 +19,3 @@ docker build --tag phantomjs-alpine .
 
 * `docker pull docker pull pet3rmatta/phantomjs-alpine` - Pull from the repository.
 * `FROM phantomjs-alpine` - Simply build your image.
-* `WORKDIR /srv` - The working directory is set to `/srv/`, so that is the directory, where the `phatom` is installed.
